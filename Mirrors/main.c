@@ -26,7 +26,7 @@ int main(int argc, char** argv){
     
 	glutInit(&argc, argv);							//===1:Inicia janela
 	glutInitDisplayMode (GLUT_SINGLE | GLUT_RGB);	//		:Single mode, RBG
-	glutInitWindowPosition (100,100);				//		:localizacao
+	glutInitWindowPosition (200,100);				//		:localizacao
 	glutInitWindowSize (800, 600);					//		:dimensoes (pixeis)
 	glutCreateWindow ("Exemplo inicial");			//		:titulo
     
