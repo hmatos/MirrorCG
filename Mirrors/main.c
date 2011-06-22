@@ -28,7 +28,7 @@ int main(int argc, char** argv){
 	glutInitDisplayMode (GLUT_SINGLE | GLUT_RGB);	//		:Single mode, RBG
 	glutInitWindowPosition (200,100);				//		:localizacao
 	glutInitWindowSize (800, 600);					//		:dimensoes (pixeis)
-	glutCreateWindow ("Exemplo inicial 2");			//		:titulo
+	glutCreateWindow ("Exemplo inicial 3");			//		:titulo
     
 	init();											//===2:Inicializacao estado/parametros 
     
